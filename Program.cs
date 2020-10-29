@@ -12,6 +12,7 @@ namespace Branching_example
             Console.WriteLine("I made a new branch and made changes to it");
 
             Console.WriteLine("splitting into two different branches");
+            Console.WriteLine("TEST123");
         }
     }
 }
