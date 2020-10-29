@@ -8,6 +8,8 @@ namespace Branching_example
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hopefully this works!");
+
+            Console.WriteLine("I made a new branch and made changes to it");
         }
     }
 }
